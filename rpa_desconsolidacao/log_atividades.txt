@@ -1,0 +1,497 @@
+01/06/2025 13:58:38 - Script rpa consulta iniciado.
+01/06/2025 13:58:42 - Script rpa consulta iniciado.
+01/06/2025 13:58:43 - Usando diretório de dados do usuário existente: C:\rpa_mercante\user_data_navegador
+01/06/2025 13:58:45 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+01/06/2025 13:58:47 - Página inicial (logon.jsp) carregada.
+01/06/2025 13:58:47 - Chamando a função JavaScript para selecionar o certificado...
+01/06/2025 13:58:47 - 'js que faz a chamada do certificado executada.
+01/06/2025 13:58:47 - Aguardando um momento para a janela do sistema operacional aparecer...
+01/06/2025 13:58:52 - Interação com janela do sistema finalizada (Enter enviado).
+01/06/2025 14:02:58 - Script rpa consulta iniciado.
+01/06/2025 14:03:00 - Script rpa consulta iniciado.
+01/06/2025 14:03:00 - Diretório de dados do usuário criado em: C:\rpa_mercante_descon\user_data_navegador
+01/06/2025 14:03:01 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+01/06/2025 14:03:02 - Página inicial (logon.jsp) carregada.
+01/06/2025 14:03:02 - Chamando a função JavaScript para selecionar o certificado...
+01/06/2025 14:03:02 - 'js que faz a chamada do certificado executada.
+01/06/2025 14:03:02 - Aguardando um momento para a janela do sistema operacional aparecer...
+01/06/2025 14:03:07 - Interação com janela do sistema finalizada (Enter enviado).
+01/06/2025 14:03:25 - Log limpo pelo usuário.
+01/06/2025 16:27:44 - Script rpa consulta iniciado.
+01/06/2025 16:27:48 - Script rpa consulta iniciado.
+01/06/2025 16:27:48 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+01/06/2025 16:27:51 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+01/06/2025 16:27:51 - Página inicial (logon.jsp) carregada.
+01/06/2025 16:27:51 - Chamando a função JavaScript para selecionar o certificado...
+01/06/2025 16:27:51 - 'js que faz a chamada do certificado executada.
+01/06/2025 16:27:51 - Aguardando um momento para a janela do sistema operacional aparecer...
+01/06/2025 16:27:56 - Interação com janela do sistema finalizada (Enter enviado).
+01/06/2025 16:31:27 - Script rpa consulta iniciado.
+01/06/2025 16:31:30 - Script rpa consulta iniciado.
+01/06/2025 16:31:30 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+01/06/2025 16:32:10 - Script rpa consulta iniciado.
+01/06/2025 16:32:12 - Script rpa consulta iniciado.
+01/06/2025 16:32:13 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+01/06/2025 16:37:12 - Script rpa consulta iniciado.
+01/06/2025 16:37:38 - Script rpa consulta iniciado.
+01/06/2025 16:37:40 - Script rpa consulta iniciado.
+01/06/2025 16:37:40 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+01/06/2025 16:37:40 - ERRO ao fazer upload para o Supabase: 'coroutine' object has no attribute 'goto'
+01/06/2025 16:39:43 - Script rpa consulta iniciado.
+01/06/2025 16:43:01 - Script rpa consulta iniciado.
+01/06/2025 16:45:24 - Script rpa consulta iniciado.
+01/06/2025 16:45:28 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+01/06/2025 16:45:29 - Script rpa consulta iniciado.
+01/06/2025 16:45:29 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+01/06/2025 16:45:29 - ERRO ao fazer upload para o Supabase: Page.goto: Target page, context or browser has been closed
+01/06/2025 16:48:03 - Script rpa consulta iniciado.
+01/06/2025 16:49:10 - Script rpa consulta iniciado.
+01/06/2025 16:56:03 - Script rpa consulta iniciado.
+01/06/2025 16:56:24 - Script rpa consulta iniciado.
+01/06/2025 16:56:27 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+01/06/2025 16:56:29 - Script rpa consulta iniciado.
+01/06/2025 16:56:29 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+01/06/2025 16:56:29 - ERRO ao fazer upload para o Supabase: Page.goto: Target page, context or browser has been closed
+01/06/2025 16:58:13 - Script rpa consulta iniciado.
+01/06/2025 16:58:16 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+01/06/2025 16:58:18 - Script rpa consulta iniciado.
+01/06/2025 16:58:18 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+01/06/2025 16:58:18 - ERRO ao fazer upload para o Supabase: 'coroutine' object has no attribute 'goto'
+01/06/2025 16:58:45 - Script rpa consulta iniciado.
+01/06/2025 16:58:48 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+03/06/2025 11:54:13 - Script rpa consulta iniciado.
+03/06/2025 13:46:14 - Script rpa consulta iniciado.
+03/06/2025 13:46:19 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+03/06/2025 13:46:45 - Script rpa consulta iniciado.
+03/06/2025 13:46:47 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+03/06/2025 13:46:48 - Script rpa consulta iniciado.
+03/06/2025 13:46:48 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+03/06/2025 13:46:48 - ERRO ao fazer upload para o Supabase: Page.goto: Target page, context or browser has been closed
+03/06/2025 13:47:20 - Script rpa consulta iniciado.
+03/06/2025 13:47:22 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+03/06/2025 13:47:23 - Script rpa consulta iniciado.
+03/06/2025 13:47:23 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+03/06/2025 13:47:23 - ERRO: Page.goto: Target page, context or browser has been closed
+03/06/2025 14:59:27 - Script rpa consulta iniciado.
+03/06/2025 15:02:20 - Script rpa consulta iniciado.
+03/06/2025 15:02:22 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+03/06/2025 15:02:24 - Script rpa consulta iniciado.
+03/06/2025 15:02:24 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+03/06/2025 15:02:24 - ERRO: Page.goto: Target page, context or browser has been closed
+03/06/2025 15:18:47 - Script rpa consulta iniciado.
+03/06/2025 15:21:23 - Script rpa consulta iniciado.
+03/06/2025 15:21:24 - Script rpa consulta iniciado.
+03/06/2025 15:21:24 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+03/06/2025 15:21:24 - ERRO: 'NoneType' object has no attribute 'goto'
+03/06/2025 15:24:41 - Script rpa consulta iniciado.
+03/06/2025 15:25:47 - Script rpa consulta iniciado.
+05/06/2025 19:25:16 - Script rpa consulta iniciado.
+05/06/2025 19:25:56 - Script rpa consulta iniciado.
+05/06/2025 19:26:35 - Script rpa consulta iniciado.
+05/06/2025 19:26:37 - Script rpa consulta iniciado.
+05/06/2025 19:26:37 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+05/06/2025 19:26:37 - ERRO: 'NoneType' object has no attribute 'goto'
+05/06/2025 19:27:45 - Script rpa consulta iniciado.
+05/06/2025 19:29:49 - Script rpa consulta iniciado.
+05/06/2025 19:32:26 - Script rpa consulta iniciado.
+05/06/2025 19:44:29 - Script rpa consulta iniciado.
+05/06/2025 19:47:22 - Script rpa consulta iniciado.
+05/06/2025 19:47:24 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+05/06/2025 19:47:25 - Script rpa consulta iniciado.
+05/06/2025 19:47:25 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+05/06/2025 19:47:25 - ERRO: Event loop is closed! Is Playwright already stopped?
+05/06/2025 23:04:32 - Script rpa consulta iniciado.
+05/06/2025 23:04:41 - Script rpa consulta iniciado.
+05/06/2025 23:04:52 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+05/06/2025 23:05:43 - Script rpa consulta iniciado.
+05/06/2025 23:05:47 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+05/06/2025 23:06:09 - ERRO: Event loop is closed! Is Playwright already stopped?
+05/06/2025 23:06:37 - Script rpa consulta iniciado.
+05/06/2025 23:06:41 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+05/06/2025 23:09:56 - Script rpa consulta iniciado.
+05/06/2025 23:10:00 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+05/06/2025 23:10:45 - Script rpa consulta iniciado.
+05/06/2025 23:10:48 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+05/06/2025 23:16:00 - Script rpa consulta iniciado.
+05/06/2025 23:16:05 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+05/06/2025 23:16:14 - Script rpa consulta iniciado.
+05/06/2025 23:16:14 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+05/06/2025 23:16:14 - Página inicial (logon.jsp) carregada.
+05/06/2025 23:16:14 - Chamando a função JavaScript para selecionar o certificado...
+05/06/2025 23:16:14 - 'js que faz a chamada do certificado executada.
+05/06/2025 23:16:14 - Aguardando um momento para a janela do sistema operacional aparecer...
+05/06/2025 23:16:19 - Ocorreu um erro no Pywinauto durante a interação da janela: (5, 'OpenProcess', 'Acesso negado.')
+05/06/2025 23:17:07 - Script rpa consulta iniciado.
+05/06/2025 23:17:08 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+05/06/2025 23:17:10 - Script rpa consulta iniciado.
+05/06/2025 23:17:10 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+05/06/2025 23:17:10 - Página inicial (logon.jsp) carregada.
+05/06/2025 23:17:10 - Chamando a função JavaScript para selecionar o certificado...
+05/06/2025 23:17:10 - 'js que faz a chamada do certificado executada.
+05/06/2025 23:17:10 - Aguardando um momento para a janela do sistema operacional aparecer...
+05/06/2025 23:17:15 - Interação com janela do sistema finalizada (Enter enviado).
+05/06/2025 23:21:41 - Script rpa consulta iniciado.
+05/06/2025 23:21:44 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+05/06/2025 23:21:46 - Script rpa consulta iniciado.
+05/06/2025 23:21:46 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+05/06/2025 23:21:46 - Página inicial (logon.jsp) carregada.
+05/06/2025 23:21:46 - Chamando a função JavaScript para selecionar o certificado...
+05/06/2025 23:21:46 - 'js que faz a chamada do certificado executada.
+05/06/2025 23:21:46 - Aguardando um momento para a janela do sistema operacional aparecer...
+05/06/2025 23:21:51 - Interação com janela do sistema finalizada (Enter enviado).
+05/06/2025 23:31:19 - Script rpa consulta iniciado.
+05/06/2025 23:31:27 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+05/06/2025 23:31:29 - Script rpa consulta iniciado.
+05/06/2025 23:31:29 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+05/06/2025 23:31:29 - Página inicial (logon.jsp) carregada.
+05/06/2025 23:31:29 - Chamando a função JavaScript para selecionar o certificado...
+05/06/2025 23:31:29 - 'js que faz a chamada do certificado executada.
+05/06/2025 23:31:29 - Aguardando um momento para a janela do sistema operacional aparecer...
+05/06/2025 23:31:34 - Interação com janela do sistema finalizada (Enter enviado).
+05/06/2025 23:34:25 - Script rpa consulta iniciado.
+05/06/2025 23:34:35 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+05/06/2025 23:34:37 - Script rpa consulta iniciado.
+05/06/2025 23:34:37 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+05/06/2025 23:34:37 - Página inicial (logon.jsp) carregada.
+05/06/2025 23:34:37 - Chamando a função JavaScript para selecionar o certificado...
+05/06/2025 23:34:37 - 'js que faz a chamada do certificado executada.
+05/06/2025 23:34:37 - Aguardando um momento para a janela do sistema operacional aparecer...
+05/06/2025 23:34:42 - Interação com janela do sistema finalizada (Enter enviado).
+06/06/2025 00:13:06 - Script rpa consulta iniciado.
+06/06/2025 00:13:08 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+06/06/2025 00:13:10 - Script rpa consulta iniciado.
+06/06/2025 00:13:10 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+06/06/2025 00:13:10 - Página inicial (logon.jsp) carregada.
+06/06/2025 00:13:10 - Chamando a função JavaScript para selecionar o certificado...
+06/06/2025 00:13:10 - 'js que faz a chamada do certificado executada.
+06/06/2025 00:13:10 - Aguardando um momento para a janela do sistema operacional aparecer...
+06/06/2025 00:13:15 - Interação com janela do sistema finalizada (Enter enviado).
+06/06/2025 00:16:21 - Script rpa consulta iniciado.
+06/06/2025 00:16:24 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+06/06/2025 00:16:26 - Script rpa consulta iniciado.
+06/06/2025 00:16:26 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+06/06/2025 00:16:26 - Página inicial (logon.jsp) carregada.
+06/06/2025 00:16:26 - Chamando a função JavaScript para selecionar o certificado...
+06/06/2025 00:16:26 - 'js que faz a chamada do certificado executada.
+06/06/2025 00:16:26 - Aguardando um momento para a janela do sistema operacional aparecer...
+06/06/2025 00:16:31 - Interação com janela do sistema finalizada (Enter enviado).
+06/06/2025 00:17:44 - Script rpa consulta iniciado.
+06/06/2025 00:17:45 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+06/06/2025 00:17:50 - Script rpa consulta iniciado.
+06/06/2025 00:17:50 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+06/06/2025 00:17:50 - Página inicial (logon.jsp) carregada.
+06/06/2025 00:17:50 - Chamando a função JavaScript para selecionar o certificado...
+06/06/2025 00:17:50 - 'js que faz a chamada do certificado executada.
+06/06/2025 00:17:50 - Aguardando um momento para a janela do sistema operacional aparecer...
+06/06/2025 00:17:55 - Interação com janela do sistema finalizada (Enter enviado).
+06/06/2025 00:22:18 - Script rpa consulta iniciado.
+06/06/2025 00:22:20 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+06/06/2025 00:22:26 - Script rpa consulta iniciado.
+06/06/2025 00:22:26 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+06/06/2025 00:22:27 - Página inicial (logon.jsp) carregada.
+06/06/2025 00:22:27 - Chamando a função JavaScript para selecionar o certificado...
+06/06/2025 00:22:27 - 'js que faz a chamada do certificado executada.
+06/06/2025 00:22:27 - Aguardando um momento para a janela do sistema operacional aparecer...
+06/06/2025 00:22:32 - Interação com janela do sistema finalizada (Enter enviado).
+06/06/2025 00:22:45 - Ocorreu um erro no Pywinauto durante a interação da janela: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+06/06/2025 00:23:06 - Script rpa consulta iniciado.
+06/06/2025 00:23:06 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+06/06/2025 00:23:07 - Página inicial (logon.jsp) carregada.
+06/06/2025 00:23:07 - Chamando a função JavaScript para selecionar o certificado...
+06/06/2025 00:23:07 - 'js que faz a chamada do certificado executada.
+06/06/2025 00:23:07 - Aguardando um momento para a janela do sistema operacional aparecer...
+06/06/2025 00:23:12 - Ocorreu um erro no Pywinauto durante a interação da janela: (5, 'OpenProcess', 'Acesso negado.')
+06/06/2025 00:29:25 - Script rpa consulta iniciado.
+06/06/2025 00:29:27 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+06/06/2025 00:29:29 - Script rpa consulta iniciado.
+06/06/2025 00:29:29 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+06/06/2025 00:29:29 - Página inicial (logon.jsp) carregada.
+06/06/2025 00:29:29 - Chamando a função JavaScript para selecionar o certificado...
+06/06/2025 00:29:29 - 'js que faz a chamada do certificado executada.
+06/06/2025 00:29:29 - Aguardando um momento para a janela do sistema operacional aparecer...
+06/06/2025 00:29:34 - Interação com janela do sistema finalizada (Enter enviado).
+06/06/2025 00:29:35 - Ocorreu um erro no Pywinauto durante a interação da janela: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+06/06/2025 00:31:55 - Script rpa consulta iniciado.
+06/06/2025 00:31:58 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+06/06/2025 00:32:06 - Script rpa consulta iniciado.
+06/06/2025 00:32:07 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+06/06/2025 00:32:09 - Página inicial (logon.jsp) carregada.
+06/06/2025 00:32:10 - Chamando a função JavaScript para selecionar o certificado...
+06/06/2025 00:32:11 - 'js que faz a chamada do certificado executada.
+06/06/2025 00:32:12 - Aguardando um momento para a janela do sistema operacional aparecer...
+06/06/2025 00:32:26 - Interação com janela do sistema finalizada (Enter enviado).
+06/06/2025 01:05:51 - Script rpa consulta iniciado.
+06/06/2025 01:05:53 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+06/06/2025 01:05:54 - Script rpa consulta iniciado.
+06/06/2025 01:05:55 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+06/06/2025 01:05:55 - ERRO: Page.goto: net::ERR_CONNECTION_RESET at https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp
+Call log:
+  - navigating to "https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp", waiting until "load"
+
+06/06/2025 01:07:40 - Script rpa consulta iniciado.
+06/06/2025 01:07:42 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+06/06/2025 01:07:52 - Script rpa consulta iniciado.
+06/06/2025 01:07:53 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+06/06/2025 01:08:04 - ERRO: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp
+Call log:
+  - navigating to "https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp", waiting until "load"
+
+06/06/2025 01:08:09 - Passo 2 executado
+06/06/2025 01:12:41 - Script rpa consulta iniciado.
+06/06/2025 01:12:46 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+06/06/2025 01:12:48 - Script rpa consulta iniciado.
+06/06/2025 01:12:48 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+06/06/2025 01:16:06 - Script rpa consulta iniciado.
+06/06/2025 01:16:08 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+06/06/2025 01:16:09 - Script rpa consulta iniciado.
+06/06/2025 01:16:09 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+06/06/2025 01:16:10 - ERRO: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp
+Call log:
+  - navigating to "https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp", waiting until "load"
+
+06/06/2025 01:17:38 - Script rpa consulta iniciado.
+06/06/2025 01:17:40 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+06/06/2025 01:17:41 - Script rpa consulta iniciado.
+06/06/2025 01:17:41 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+06/06/2025 01:17:41 - ERRO: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp
+Call log:
+  - navigating to "https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp", waiting until "load"
+
+06/06/2025 10:50:54 - Script rpa consulta iniciado.
+06/06/2025 10:50:56 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+06/06/2025 10:50:58 - Script rpa consulta iniciado.
+06/06/2025 10:50:58 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+06/06/2025 10:51:09 - Página inicial (logon.jsp) carregada.
+06/06/2025 10:51:09 - Chamando a função JavaScript para selecionar o certificado...
+06/06/2025 10:51:09 - 'js que faz a chamada do certificado executada.
+06/06/2025 10:51:09 - Aguardando um momento para a janela do sistema operacional aparecer...
+06/06/2025 10:51:37 - Usuário clicou em Continuar
+06/06/2025 10:51:37 - Interação com janela do sistema finalizada (Enter enviado).
+06/06/2025 10:55:51 - Script rpa consulta iniciado.
+06/06/2025 10:55:54 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+06/06/2025 10:55:56 - Script rpa consulta iniciado.
+06/06/2025 10:55:56 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+06/06/2025 10:55:57 - Página inicial (logon.jsp) carregada.
+06/06/2025 10:55:57 - Chamando a função JavaScript para selecionar o certificado...
+06/06/2025 10:55:57 - 'js que faz a chamada do certificado executada.
+06/06/2025 10:55:57 - Aguardando um momento para a janela do sistema operacional aparecer...
+06/06/2025 10:56:04 - Usuário clicou em Continuar
+06/06/2025 10:56:04 - Interação com janela do sistema finalizada (Enter enviado).
+06/06/2025 13:09:12 - Script rpa consulta iniciado.
+06/06/2025 13:09:14 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+06/06/2025 13:09:16 - Script rpa consulta iniciado.
+06/06/2025 13:09:16 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+06/06/2025 13:09:16 - Página inicial (logon.jsp) carregada.
+06/06/2025 13:09:16 - Chamando a função JavaScript para selecionar o certificado...
+06/06/2025 13:09:16 - 'js que faz a chamada do certificado executada.
+06/06/2025 13:09:16 - Aguardando um momento para a janela do sistema operacional aparecer...
+06/06/2025 13:09:22 - Usuário clicou em Continuar
+06/06/2025 13:09:22 - Interação com janela do sistema finalizada (Enter enviado).
+06/06/2025 13:19:19 - Script rpa consulta iniciado.
+06/06/2025 13:19:20 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+06/06/2025 13:19:22 - Script rpa consulta iniciado.
+06/06/2025 13:19:22 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+06/06/2025 13:19:23 - Página inicial (logon.jsp) carregada.
+06/06/2025 13:19:23 - Chamando a função JavaScript para selecionar o certificado...
+06/06/2025 13:19:23 - 'js que faz a chamada do certificado executada.
+06/06/2025 13:19:23 - Aguardando um momento para a janela do sistema operacional aparecer...
+06/06/2025 13:19:26 - Usuário clicou em Continuar
+06/06/2025 13:19:26 - Interação com janela do sistema finalizada (Enter enviado).
+06/06/2025 17:14:18 - Script rpa consulta iniciado.
+06/06/2025 17:14:24 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+06/06/2025 17:14:26 - Script rpa consulta iniciado.
+06/06/2025 17:14:26 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+06/06/2025 17:14:27 - Página inicial (logon.jsp) carregada.
+06/06/2025 17:14:27 - Chamando a função JavaScript para selecionar o certificado...
+06/06/2025 17:14:27 - 'js que faz a chamada do certificado executada.
+06/06/2025 17:14:27 - Aguardando um momento para a janela do sistema operacional aparecer...
+06/06/2025 17:14:29 - Interação com janela do sistema finalizada (Enter enviado).
+06/06/2025 17:14:29 - Ocorreu um erro no Pywinauto durante a interação da janela: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+06/06/2025 17:20:33 - Script rpa consulta iniciado.
+06/06/2025 17:20:39 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+06/06/2025 17:20:41 - Script rpa consulta iniciado.
+06/06/2025 17:20:41 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+06/06/2025 17:20:42 - Página inicial (logon.jsp) carregada.
+06/06/2025 17:20:42 - Chamando a função JavaScript para selecionar o certificado...
+06/06/2025 17:20:42 - 'js que faz a chamada do certificado executada.
+06/06/2025 17:20:42 - Aguardando um momento para a janela do sistema operacional aparecer...
+06/06/2025 17:20:44 - Interação com janela do sistema finalizada (Enter enviado).
+06/06/2025 17:20:44 - Ocorreu um erro no Pywinauto durante a interação da janela: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+06/06/2025 19:19:42 - Script rpa consulta iniciado.
+06/06/2025 19:19:44 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+06/06/2025 19:19:46 - Script rpa consulta iniciado.
+06/06/2025 19:19:46 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+06/06/2025 19:19:47 - Página inicial (logon.jsp) carregada.
+06/06/2025 19:19:47 - Chamando a função JavaScript para selecionar o certificado...
+06/06/2025 19:19:47 - 'js que faz a chamada do certificado executada.
+06/06/2025 19:19:47 - Aguardando um momento para a janela do sistema operacional aparecer...
+06/06/2025 19:19:49 - Interação com janela do sistema finalizada (Enter enviado).
+06/06/2025 19:19:49 - Ocorreu um erro no Pywinauto durante a interação da janela: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+06/06/2025 19:20:14 - Script rpa consulta iniciado.
+06/06/2025 19:20:17 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+06/06/2025 19:20:19 - Script rpa consulta iniciado.
+06/06/2025 19:20:19 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+06/06/2025 19:20:19 - Página inicial (logon.jsp) carregada.
+06/06/2025 19:20:19 - Chamando a função JavaScript para selecionar o certificado...
+06/06/2025 19:20:19 - 'js que faz a chamada do certificado executada.
+06/06/2025 19:20:19 - Aguardando um momento para a janela do sistema operacional aparecer...
+06/06/2025 19:20:21 - Interação com janela do sistema finalizada (Enter enviado).
+06/06/2025 19:20:21 - Ocorreu um erro no Pywinauto durante a interação da janela: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+06/06/2025 19:21:45 - Script rpa consulta iniciado.
+06/06/2025 19:21:47 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+06/06/2025 19:21:49 - Script rpa consulta iniciado.
+06/06/2025 19:21:49 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+06/06/2025 19:21:50 - Página inicial (logon.jsp) carregada.
+06/06/2025 19:21:50 - Chamando a função JavaScript para selecionar o certificado...
+06/06/2025 19:21:50 - 'js que faz a chamada do certificado executada.
+06/06/2025 19:21:50 - Aguardando um momento para a janela do sistema operacional aparecer...
+06/06/2025 19:21:52 - Interação com janela do sistema finalizada (Enter enviado).
+06/06/2025 19:21:52 - Ocorreu um erro no Pywinauto durante a interação da janela: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+06/06/2025 19:22:35 - Script rpa consulta iniciado.
+06/06/2025 19:22:37 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+06/06/2025 19:22:42 - Script rpa consulta iniciado.
+06/06/2025 19:22:42 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+06/06/2025 19:22:43 - Página inicial (logon.jsp) carregada.
+06/06/2025 19:22:43 - Chamando a função JavaScript para selecionar o certificado...
+06/06/2025 19:22:43 - 'js que faz a chamada do certificado executada.
+06/06/2025 19:22:43 - Aguardando um momento para a janela do sistema operacional aparecer...
+06/06/2025 19:22:45 - Interação com janela do sistema finalizada (Enter enviado).
+06/06/2025 19:22:50 - Ocorreu um erro no Pywinauto durante a interação da janela: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+06/06/2025 19:24:03 - Script rpa consulta iniciado.
+06/06/2025 19:24:06 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+06/06/2025 19:24:08 - Script rpa consulta iniciado.
+06/06/2025 19:24:08 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+06/06/2025 19:24:08 - Página inicial (logon.jsp) carregada.
+06/06/2025 19:24:08 - Chamando a função JavaScript para selecionar o certificado...
+06/06/2025 19:24:08 - 'js que faz a chamada do certificado executada.
+06/06/2025 19:24:08 - Aguardando um momento para a janela do sistema operacional aparecer...
+06/06/2025 19:24:10 - Interação com janela do sistema finalizada (Enter enviado).
+06/06/2025 19:24:10 - Ocorreu um erro no Pywinauto durante a interação da janela: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+06/06/2025 19:24:21 - Passo 1 executado
+06/06/2025 19:25:20 - Script rpa consulta iniciado.
+06/06/2025 19:25:22 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+06/06/2025 19:25:24 - Script rpa consulta iniciado.
+06/06/2025 19:25:24 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+06/06/2025 19:25:24 - Página inicial (logon.jsp) carregada.
+06/06/2025 19:25:24 - Chamando a função JavaScript para selecionar o certificado...
+06/06/2025 19:25:24 - 'js que faz a chamada do certificado executada.
+06/06/2025 19:25:24 - Aguardando um momento para a janela do sistema operacional aparecer...
+06/06/2025 19:25:26 - Interação com janela do sistema finalizada (Enter enviado).
+06/06/2025 19:25:26 - Ocorreu um erro no Pywinauto durante a interação da janela: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+06/06/2025 19:25:37 - Passo 1 executado
+06/06/2025 19:29:22 - Script rpa consulta iniciado.
+06/06/2025 19:29:25 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+06/06/2025 19:29:27 - Script rpa consulta iniciado.
+06/06/2025 19:29:27 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+06/06/2025 19:29:27 - Página inicial (logon.jsp) carregada.
+06/06/2025 19:29:27 - Chamando a função JavaScript para selecionar o certificado...
+06/06/2025 19:29:27 - 'js que faz a chamada do certificado executada.
+06/06/2025 19:29:27 - Aguardando um momento para a janela do sistema operacional aparecer...
+06/06/2025 19:29:29 - Interação com janela do sistema finalizada (Enter enviado).
+06/06/2025 19:29:29 - Ocorreu um erro no Pywinauto durante a interação da janela: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+06/06/2025 19:29:34 - Passo 1 executado
+06/06/2025 19:29:36 - Passo 2 executado
+06/06/2025 19:30:13 - Script rpa consulta iniciado.
+06/06/2025 19:30:15 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+06/06/2025 19:30:17 - Script rpa consulta iniciado.
+06/06/2025 19:30:17 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+06/06/2025 19:30:17 - Página inicial (logon.jsp) carregada.
+06/06/2025 19:30:17 - Chamando a função JavaScript para selecionar o certificado...
+06/06/2025 19:30:17 - 'js que faz a chamada do certificado executada.
+06/06/2025 19:30:17 - Aguardando um momento para a janela do sistema operacional aparecer...
+06/06/2025 19:30:19 - Interação com janela do sistema finalizada (Enter enviado).
+06/06/2025 19:30:19 - Ocorreu um erro no Pywinauto durante a interação da janela: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+06/06/2025 19:30:23 - Passo 1 executado
+06/06/2025 19:31:05 - Passo 2 executado
+06/06/2025 19:31:52 - Script rpa consulta iniciado.
+06/06/2025 19:33:59 - Script rpa consulta iniciado.
+06/06/2025 19:39:09 - Script rpa consulta iniciado.
+06/06/2025 20:27:57 - Script rpa consulta iniciado.
+06/06/2025 20:28:03 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+06/06/2025 20:28:05 - Script rpa consulta iniciado.
+06/06/2025 20:28:05 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+06/06/2025 20:28:06 - Página inicial (logon.jsp) carregada.
+06/06/2025 20:28:06 - Chamando a função JavaScript para selecionar o certificado...
+06/06/2025 20:28:06 - 'js que faz a chamada do certificado executada.
+06/06/2025 20:28:06 - Aguardando um momento para a janela do sistema operacional aparecer...
+06/06/2025 20:28:08 - Interação com janela do sistema finalizada (Enter enviado).
+06/06/2025 20:28:09 - Ocorreu um erro no Pywinauto durante a interação da janela: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+06/06/2025 20:28:13 - Passo 1 executado
+06/06/2025 20:28:13 - Espera campo de ce mercante!
+06/06/2025 20:28:13 - ce mercante: 
+06/06/2025 20:28:15 - Passo 2 executado
+06/06/2025 20:32:47 - Log limpo pelo usuário.
+06/06/2025 20:33:03 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+07/06/2025 18:36:37 - Script rpa consulta iniciado.
+07/06/2025 18:36:42 - Passo 1 executado
+07/06/2025 18:36:42 - Espera campo de ce mercante!
+07/06/2025 18:37:18 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+07/06/2025 18:37:20 - Script rpa consulta iniciado.
+07/06/2025 18:37:20 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+07/06/2025 18:37:21 - Página inicial (logon.jsp) carregada.
+07/06/2025 18:37:21 - Chamando a função JavaScript para selecionar o certificado...
+07/06/2025 18:37:21 - 'js que faz a chamada do certificado executada.
+07/06/2025 18:37:21 - Aguardando um momento para a janela do sistema operacional aparecer...
+07/06/2025 18:37:23 - Interação com janela do sistema finalizada (Enter enviado).
+07/06/2025 18:37:23 - Ocorreu um erro no Pywinauto durante a interação da janela: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+07/06/2025 18:37:34 - Passo 3 executado
+07/06/2025 18:39:45 - Script rpa consulta iniciado.
+07/06/2025 18:40:08 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+07/06/2025 18:40:58 - Script rpa consulta iniciado.
+07/06/2025 18:41:00 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+07/06/2025 18:41:02 - Script rpa consulta iniciado.
+07/06/2025 18:41:02 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+07/06/2025 18:41:03 - Página inicial (logon.jsp) carregada.
+07/06/2025 18:41:03 - Chamando a função JavaScript para selecionar o certificado...
+07/06/2025 18:41:04 - 'js que faz a chamada do certificado executada.
+07/06/2025 18:41:04 - Aguardando um momento para a janela do sistema operacional aparecer...
+07/06/2025 18:41:06 - Interação com janela do sistema finalizada (Enter enviado).
+07/06/2025 18:41:06 - Ocorreu um erro no Pywinauto durante a interação da janela: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+07/06/2025 18:41:12 - Passo 3 executado
+07/06/2025 18:42:13 - Script rpa consulta iniciado.
+07/06/2025 18:42:16 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+07/06/2025 18:42:19 - Script rpa consulta iniciado.
+07/06/2025 18:42:19 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+07/06/2025 18:42:19 - Página inicial (logon.jsp) carregada.
+07/06/2025 18:42:19 - Chamando a função JavaScript para selecionar o certificado...
+07/06/2025 18:42:19 - 'js que faz a chamada do certificado executada.
+07/06/2025 18:42:19 - Aguardando um momento para a janela do sistema operacional aparecer...
+07/06/2025 18:42:21 - Interação com janela do sistema finalizada (Enter enviado).
+07/06/2025 18:42:21 - Ocorreu um erro no Pywinauto durante a interação da janela: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+07/06/2025 18:42:26 - Passo 3 executado
+07/06/2025 18:44:28 - Script rpa consulta iniciado.
+07/06/2025 18:44:45 - Script rpa consulta iniciado.
+07/06/2025 18:45:22 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+07/06/2025 18:45:24 - Script rpa consulta iniciado.
+07/06/2025 18:45:24 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+07/06/2025 18:45:24 - Página inicial (logon.jsp) carregada.
+07/06/2025 18:45:24 - Chamando a função JavaScript para selecionar o certificado...
+07/06/2025 18:45:24 - 'js que faz a chamada do certificado executada.
+07/06/2025 18:45:24 - Aguardando um momento para a janela do sistema operacional aparecer...
+07/06/2025 18:45:26 - Interação com janela do sistema finalizada (Enter enviado).
+07/06/2025 18:45:26 - Ocorreu um erro no Pywinauto durante a interação da janela: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+07/06/2025 18:45:30 - Passo 1 executado
+07/06/2025 18:45:30 - Espera campo de ce mercante!
+07/06/2025 18:45:30 - ce mercante: 
+07/06/2025 18:46:12 - Script rpa consulta iniciado.
+07/06/2025 20:30:29 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+07/06/2025 20:30:31 - Script rpa consulta iniciado.
+07/06/2025 20:30:31 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+07/06/2025 20:30:32 - Página inicial (logon.jsp) carregada.
+07/06/2025 20:30:32 - Chamando a função JavaScript para selecionar o certificado...
+07/06/2025 20:30:32 - 'js que faz a chamada do certificado executada.
+07/06/2025 20:30:32 - Aguardando um momento para a janela do sistema operacional aparecer...
+07/06/2025 20:30:34 - Interação com janela do sistema finalizada (Enter enviado).
+07/06/2025 20:30:34 - Ocorreu um erro no Pywinauto durante a interação da janela: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+07/06/2025 20:30:42 - Passo 3 executado
+07/06/2025 20:31:56 - Script rpa consulta iniciado.
+07/06/2025 20:31:59 - Usando diretório de dados do usuário existente: C:\rpa_mercante_descon\user_data_navegador
+07/06/2025 20:32:01 - Script rpa consulta iniciado.
+07/06/2025 20:32:01 - Navegando para https://www.mercante.transportes.gov.br/g33159MT/jsp/logon.jsp (ignorando erros de HTTPS)...
+07/06/2025 20:32:01 - Página inicial (logon.jsp) carregada.
+07/06/2025 20:32:01 - Chamando a função JavaScript para selecionar o certificado...
+07/06/2025 20:32:01 - 'js que faz a chamada do certificado executada.
+07/06/2025 20:32:01 - Aguardando um momento para a janela do sistema operacional aparecer...
+07/06/2025 20:32:03 - Interação com janela do sistema finalizada (Enter enviado).
+07/06/2025 20:32:03 - Ocorreu um erro no Pywinauto durante a interação da janela: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+07/06/2025 20:32:31 - Passo 3 executado
